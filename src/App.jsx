@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import React, { useState } from 'react';
 import cn from 'classnames';
+
 import './App.scss';
 
 import usersFromServer from './api/users';
